@@ -26,7 +26,7 @@ By the time of each of our publications, cleaned code should be available in thi
 ## Links to recent publications 
 
 * [__COVID spending on vaccine delivery__](https://vizhub.healthdata.org/covid-spending/)
-![covvax_viz_hub_fig](Projects/COVID_vaccine_delivery/3-Archive/VizHub_COVID_spending_vaccine_delivery_20221221.gif "full_view")
+![covvax_viz_hub_fig](Projects/COVID_vaccine_delivery/3-Archive/Figures/VizHub_COVID_spending_vaccine_delivery_20221221.gif "full_view")
 *
 *
 
