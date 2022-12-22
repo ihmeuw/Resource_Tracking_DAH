@@ -12,6 +12,8 @@ This repository contains cleaned code that the Resource Tracking Development Ass
 │   │   ├── COVID_vaccine_delivery
 │   │   │   ├── Files
 │   │   │   ├── README.md
+│   │   ├── Financing_Global_Health
+│   │   │   ├── README.md
 │   ├── .gitignore
 │   ├── LICENSE.md
 │   ├── README.md
@@ -25,8 +27,10 @@ By the time of each of our publications, cleaned code should be available in thi
 
 ## Links to recent publications 
 
-* [__COVID spending on vaccine delivery__](https://vizhub.healthdata.org/covid-spending/)
-![covvax_viz_hub_fig](Projects/COVID_vaccine_delivery/3-Archive/Figures/VizHub_COVID_spending_vaccine_delivery_20221221.gif "full_view")
+* __COVID spending on vaccine delivery__
+	- [COVID_vaccine_delivery](Projects/COVID_vaccine_delivery)
+	- [IHME COVID spending on vaccine delivery Visualization tool](https://vizhub.healthdata.org/covid-spending/)
+	![covvax_viz_hub_fig](Projects/COVID_vaccine_delivery/3-Archive/Figures/VizHub_COVID_spending_vaccine_delivery_20221221.gif "full_view")
 *
 *
 
