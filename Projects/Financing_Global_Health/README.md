@@ -2,7 +2,7 @@
 
 This repository contains cleaned code for the [_Financing Global Health_](https://www.healthdata.org/policy-report/financing-global-health-2020-impact-covid-19) project that the Resource Tracking Development Assistance for Health (DAH) sub-team used to generate results for the reports.
 
-![covvax_viz_hub_fig](3-Archive/Figures/VizHub_COVID_spending_vaccine_delivery_20221221.gif "full_view")
+[![covvax_viz_hub_fig](3-Archive/Figures/VizHub_COVID_spending_vaccine_delivery_20221221.gif "full_view")](https://vizhub.healthdata.org/covid-spending/)
 
 ## Project Description
 _Description to Update_
